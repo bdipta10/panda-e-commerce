@@ -1,0 +1,29 @@
+.panda-banner-bg-color {
+    background-color: #FEEAE9;
+}
+
+.panda-btn {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    width: 168px;
+    height: 52px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    color: white;
+}
+
+.panda-category-text {
+    font-size: 36px;
+}
+
+.panda-category-bg-color-1 {
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+
+.panda-category-bg-color-2 {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+
+.panda-category-bg-color-3 {
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
